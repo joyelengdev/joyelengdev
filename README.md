@@ -2,7 +2,7 @@
 
 🚀 **Freelance Developer**
 
-Welcome to my digital workspace! I'm a freelance developer, specializing in creating dynamic, high-quality web applications. With a passion for coding and a knack for solving complex problems, I help businesses and entrepreneurs bring their ideas to life.
+Welcome to my digital workspace! I'm a software developer, specializing in creating dynamic, high-quality web applications. With a passion for coding and a knack for solving complex problems, I help businesses and entrepreneurs bring their ideas to life.
 
 💼 **What I Do**
 
